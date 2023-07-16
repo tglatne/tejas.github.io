@@ -24,10 +24,10 @@ const HeroSection = () => {
           </h1>
           <p className="text-lg mt-4 mb-6 md:text-2xl">
             <span className="font-semibold italic text-orange-700">
-              Software Engineer{" "}
+              Software Engineer.{" "}
             </span>
-            enthusiast. Passionate about creating software that makes life
-            easier and more meaningful. Often addressed as a{" "}
+            Passionate about creating software that makes life easier and more
+            meaningful. Often addressed as a{" "}
             <span className="font-bold italic">keen-observer</span>
           </p>
           <Link
