@@ -66,6 +66,7 @@ export default function Navbar() {
                 return (
                   <Link
                     key={idx}
+                    href={item.page}
                     to={item.page}
                     className={
                       "block lg:inline-block text-orange-700  hover:text-neutral-500 dark:text-orange-700 font-semibold"

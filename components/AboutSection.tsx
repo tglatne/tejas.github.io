@@ -34,29 +34,34 @@ const AboutSection = () => {
               based in Waterloo, Canada.
             </p>
             <br />
-            <p className="text-lg">
-              I graduated from University of Waterloo, Canada with Masters in
-              Electrical and Computer Engineering specializing in Machine
-              Learning.
-            </p>
-            <br />
-            <p className="text-lg">
-              I have a wide range of hobbies like swimming, playing sports and
-              walk in nature that keep me busy. I am always seeking new
-              experiences and love to keep myself engaged and learning new
-              things.
-            </p>
-            <br />
-            <p className="text-lg">
-              I believe that you should{" "}
-              <span className="font-bold text-orange-700">
-                never stop learning
-              </span>{" "}
-              and that&#39;s what I strive to do, I have a passion for
-              technology and a desire to always challenge myself and push the
-              limits of what is possible. I am excited to see where my career
-              takes me and am always open to new opportunities.
-            </p>
+            <ul>
+              <li>
+                <p className="text-lg">
+                  I graduated from University of Waterloo, Canada with Masters
+                  in Electrical and Computer Engineering specializing in Machine
+                  Learning.
+                </p>
+              </li>
+
+              <br />
+              <p className="text-lg">
+                I have a wide range of hobbies like swimming, playing sports and
+                walk in nature that keep me busy. I am always seeking new
+                experiences and love to keep myself engaged and learning new
+                things.
+              </p>
+              <br />
+              <p className="text-lg">
+                I believe that you should{" "}
+                <span className="font-bold text-orange-700">
+                  never stop learning
+                </span>{" "}
+                and that&#39;s what I strive to do, I have a passion for
+                technology and a desire to always challenge myself and push the
+                limits of what is possible. I am excited to see where my career
+                takes me and am always open to new opportunities.
+              </p>
+            </ul>
           </div>
           <div className="text-center md:w-1/2 md:text-left">
             <h1 className="text-2xl font-bold mb-6">My Skillset</h1>

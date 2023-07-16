@@ -31,6 +31,7 @@ const HeroSection = () => {
             <span className="font-bold italic">keen-observer</span>
           </p>
           <Link
+            href="#projects"
             to="projects"
             className="text-neutral-100 font-semibold px-6 py-3 bg-orange-700 rounded shadow hover:bg-orange-700"
             activeClass="active"
