@@ -80,8 +80,8 @@ const ProjectsSection = () => {
           );
         })}
       </div>
-      <div className="mt-12 flex flex-col space-y-28 text-3xl">
-        Hop on to my GitHub profile to explore me more...
+      <div className="mt-12 flex flex-col space-y-28 text-3xl text-center">
+        Thank you...!
       </div>
     </section>
   );
