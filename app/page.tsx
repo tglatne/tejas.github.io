@@ -8,6 +8,7 @@ export default function Home() {
       <HeroSection />
       <AboutSection />
       <ProjectsSection />
+      <ExperienceSection />
     </main>
   );
 }
